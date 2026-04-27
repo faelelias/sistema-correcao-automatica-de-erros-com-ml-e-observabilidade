@@ -1,0 +1,8 @@
+auto-repair-system/
+│── docker-compose.yml
+│── app/                # Aplicação exemplo (Flask)
+│   └── app.py
+│── ml/                 # Modelos de Machine Learning
+│   └── train_model.py
+│── automation/         # Scripts de correção automática
+│   └── repair.py

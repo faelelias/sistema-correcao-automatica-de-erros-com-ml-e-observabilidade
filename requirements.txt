@@ -1,0 +1,7 @@
+flask==2.3.0
+scikit-learn==1.3.0
+pandas==2.0.0
+joblib==1.3.0
+elasticsearch==8.9.0
+prometheus-client==0.17.0
+python-elasticsearch==8.9.0
