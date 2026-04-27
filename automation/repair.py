@@ -73,3 +73,4 @@ if __name__ == "__main__":
     for test_log in test_logs:
         logger.info(f"Testando: {test_log}")
         reparar(test_log)
+        logger.info("-" * 50)
